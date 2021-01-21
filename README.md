@@ -1,1 +1,1 @@
-Watch the course here: https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED
+Image Search App is an android application built using MVVM architecure and jetpack architectural components:dagger hilt, navigation component, view binding and retrofit. It shows a great integration of these technologies
